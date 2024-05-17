@@ -395,6 +395,132 @@ header {
 
 /************************************************** OM OS **************************************************/
 
+.moenster-venstre{
+width: 5%;
+margin-top: -2%;
+margin-left: 5%;
+
+}
+
+
+.sammen{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    display: flex;
+    margin-top: -50%;
+}
+
+.moenster-hoejre{
+    width: 5%;
+    margin-top: -41.5%;
+   margin-left: 85%;
+    
+    }
+
+
+.velkommen{
+    font-size: 400%;
+}
+
+.v{
+    transform: rotate(-90deg);
+    margin-top: -35%;
+    width: -10%;
+}
+
+
+.butik{
+    width: 13%;
+    margin-top: -30%;
+    margin-left: 25%;
+    display: flex;
+}
+
+.butik-tekst{
+    font-family: "Kite One", sans serif;
+    color: #b38c72;
+    margin-left: 18%;
+    margin-right: 55%;
+    text-align: center;
+    margin-top: 1%;
+ 
+}
+
+.dukker{
+    width: 13%;
+    display: flex;
+    margin-left: 65%;
+    margin-top: -19%;
+}
+
+.dukker-tekst{
+    font-family: "Kite One", sans serif;
+    color: #b38c72;
+    text-align: center;
+    margin-left: 61%;
+    margin-right: 18%;
+}
+
+.vaerdi{
+    width: 13%;
+    display: flex;
+    margin-left: 25% ;
+    margin-top: 5%;
+}
+
+.vaerdi-tekst{
+    font-family: "Kite One", sans serif;
+    color: #b38c72;
+    text-align: center;
+    margin-left: 18%;
+    margin-right: 55%;
+    margin-top: 1%;
+}
+
+.naalepude{
+    width: 13%;
+    display: flex;
+    margin-left: 65%;
+    margin-top: -22%;
+}
+
+.naalepude-tekst{
+    font-family: "Kite One", sans serif;
+    color: #b38c72;
+    text-align: center;
+    margin-left: 58%;
+    margin-right: 15%;
+    margin-top: 1%;
+}
+
+.om-citat{
+    color: var(--red);
+    margin-top: 5%;
+    font-size: 160%;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.om-boelge{
+    transform: rotate(90deg);
+    margin-top: -32%;
+}
+
+.lene-billede{
+    width: 30%;
+    margin-left: 60%;
+    margin-top: -30%;
+}
+
+.lene{
+    font-size: 180%;
+    font-weight: 100;
+
+}
+
 /************************************************** STRIK **************************************************/
 
 /*************************************************** TEST **************************************************/
